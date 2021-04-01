@@ -20,10 +20,10 @@ As colunas do dataset estão exemplificadas abaixo:
 O código utilizado para crawlear o site pode ser encontrado no arquivo _[aosfatos.py](Data/citations/spiders/aosfatos.py)_. 
 
 ## Análise de Dados
-A análise de dados está disponível no arquivo _[EDA.ipynb](EDA.ipynb)_ . No notebook, você pode encontrar análises de contagens de palavras, suas frequências relativas nas notícias, ... **add o restante** 
+As análises de dados estão disponíveis na pasta _[Analysis](Analysis)_. Nos notebooks, você pode encontrar análises de contagens de palavras, suas frequências relativas nas notícias, ... **add o restante** 
 
 ## Classificação das notícias 
-add modelos e notebook 
+Os modelos utilizados para realizar a classificação das notícias podem ser encontrados na pasta _[Models](Models/)_. 
 
 
 
