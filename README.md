@@ -1,4 +1,4 @@
-![](https://camo.githubusercontent.com/c0757aa456cbea5f494bc0b6a62a98820ecacc659719aaf6f0d4f7ff2ab1b008/68747470733a2f2f692e6962622e636f2f447448513346472f383032783236352d4c6f676f2d47542e706e67)
+![logo-turing.png](https://i.postimg.cc/hj9Hjx94/logo-turing.png)
 
 # NLP: Fake Citation
 **Análise exploratória de dados e modelos de classificação utilizando as reportagens crawleadas do site [Aos fatos](https://www.aosfatos.org).**
@@ -20,7 +20,7 @@ As colunas do dataset estão exemplificadas abaixo:
 O código utilizado para crawlear o site pode ser encontrado no arquivo _[aosfatos.py](Data/citations/spiders/aosfatos.py)_. 
 
 ## Análise de Dados
-As análises de dados estão disponíveis na pasta _[Analysis](Analysis)_. Nos notebooks, você pode encontrar análises de contagens de palavras, suas frequências relativas nas notícias, ... **add o restante** 
+As análises de dados estão disponíveis na pasta _[Analysis](Analysis)_. Nos notebooks, você pode encontrar análises de contagens de palavras e suas frequências relativas nas notícias.
 
 ## Classificação das notícias 
 Os modelos utilizados para realizar a classificação das notícias podem ser encontrados na pasta _[Models](Models/)_. 
